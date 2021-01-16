@@ -64,7 +64,7 @@ Hi, I'm Divij Kalra, a freshman at Thapar Institute of Engineering and Technolog
 
 
   
-  <img width="1500" height="auto" align="center" alt="Samikmalhotra's github stats" 
-         src="https://github-profile-trophy.vercel.app/?username=Samikmalhotra&row=1&column=7&theme=darkhub&margin-w=15e" />
+  <img width="1500" height="auto" align="center" alt="Divij Kalra's github stats" 
+         src="https://github.com/divijkalra" />
  <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Samikmalhotra&row=7&column=7&theme=darkhub&margin-w=15)]-->
   
